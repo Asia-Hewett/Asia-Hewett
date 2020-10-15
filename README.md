@@ -1,1 +1,1 @@
-![hero image](./images/hero-image.png)
+![hero image](./images/welcome_hero_image.png)
