@@ -1,6 +1,5 @@
 ![hero image](./images/github_landing_page.png)
-2
-​
+
 <p align="center">
     <a href="https://github.com/Asia-Hewett/">
    <img src="https://github-readme-stats.vercel.app/api?username=Asia-Hewett&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue" alt="Asia's Stats" >
