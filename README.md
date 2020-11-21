@@ -10,4 +10,7 @@
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
-  </p>
+  <a href="https://asia-hewett.github.io/continental_blog_spot/">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/60/60736.svg" width="26px">
+  </a>
+</p>
