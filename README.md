@@ -1,7 +1,7 @@
 ![hero image](./images/github_landing_page.png)
 <p align="center">
   <a href="https://asia-hewett.github.io/">
-    <img src="https://static.thenounproject.com/png/156843-200.png" width="26px">
+    <img src="https://webstockreview.net/images/website-icon-png.png" width="26px">
   </a>
   &emsp;
    <a href="https://www.linkedin.com/in/Asia-Hewett/">
